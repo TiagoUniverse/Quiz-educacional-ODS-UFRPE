@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"219","Source":"Form","Properties":{"$Name":"acertos_e_Erros","$Type":"Form","$Version":"30","ActionBar":"True","AlignHorizontal":"3","AlignVertical":"2","AppName":"Quiz_UFRPE_versao2","Theme":"AppTheme.Light.DarkActionBar","Title":"Seus acertos e erros","Uuid":"0","$Components":[{"$Name":"Organiza\u00e7\u00e3oVertical1","$Type":"VerticalArrangement","$Version":"4","Uuid":"1738041421","$Components":[{"$Name":"lb_acertos","$Type":"Label","$Version":"5","Text":"Seus acertos:","Uuid":"-1831472893"},{"$Name":"lb_erros","$Type":"Label","$Version":"5","Text":"Seus erros","Uuid":"-1896092254"}]},{"$Name":"btn_voltar","$Type":"Button","$Version":"7","Text":"Voltar ao menu ","Uuid":"-457629316"},{"$Name":"CloudDB1","$Type":"CloudDB","$Version":"2","ProjectID":"Quiz_UFRPE_versao2","Uuid":"716972476"}]}}
+|#
