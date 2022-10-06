@@ -1,0 +1,10 @@
+var de acertos e erros
+
+tempo de 30s
+
+tinydb = banco de dados que busca as perguntas
+
+perguntas aleatórias. Assim, as perguntas, alternativas, alternativa correta
+salva no tinydb.
+
+perguntas acertadas não devem aparecer de novo
